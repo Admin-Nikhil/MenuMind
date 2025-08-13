@@ -1,7 +1,4 @@
-# OpenAI API Configuration
-# Get your API key from: https://platform.openai.com/api-keys
-OPENAI_API_KEY=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
-
+OPENAI_API_KEY=sk-abcdef1234567890abcdef1234567890abcdef12
 
 # Flask Configuration
 FLASK_ENV=development
